@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://coseturche.it/tr/fixedmenu/1/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/fixedmenu/1/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/fixedmenu/2/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,9 +25,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/fixedmenu/2/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/fixedmenu/3/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,9 +37,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/fixedmenu/3/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/anali-kizli-corbasi/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,9 +49,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/anali-kizli-corbasi/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/ayran/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,9 +61,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/ayran/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/gul-borek/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,9 +73,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/gul-borek/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -98,9 +85,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/cevizli-baklava/</loc>
     <xhtml:link
                 rel="alternate"
@@ -112,9 +97,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/cevizli-baklava/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/</loc>
     <xhtml:link
                 rel="alternate"
@@ -126,9 +109,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/etli-kabak-dolmasi/</loc>
     <xhtml:link
                 rel="alternate"
@@ -140,9 +121,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/etli-kabak-dolmasi/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/fixedmenu/</loc>
     <xhtml:link
                 rel="alternate"
@@ -154,9 +133,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/fixedmenu/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/</loc>
     <xhtml:link
                 rel="alternate"
@@ -168,9 +145,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/havuc-tarator/</loc>
     <xhtml:link
                 rel="alternate"
@@ -182,9 +157,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/havuc-tarator/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/icli-kofte/</loc>
     <xhtml:link
                 rel="alternate"
@@ -196,9 +169,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/icli-kofte/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/iskembe-corbasi/</loc>
     <xhtml:link
                 rel="alternate"
@@ -210,9 +181,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/iskembe-corbasi/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/karniyarik/</loc>
     <xhtml:link
                 rel="alternate"
@@ -224,9 +193,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/karniyarik/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/kestaneli-cikolatali-pasta/</loc>
     <xhtml:link
                 rel="alternate"
@@ -238,23 +205,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/kestaneli-cikolatali-pasta/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://coseturche.it/tr/food/kumpir/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://coseturche.it/food/kumpir/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://coseturche.it/tr/food/kumpir/"
-                />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/kirmizi-lahana-salatasi/</loc>
     <xhtml:link
                 rel="alternate"
@@ -266,9 +217,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/kirmizi-lahana-salatasi/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/kisir/</loc>
     <xhtml:link
                 rel="alternate"
@@ -280,9 +229,19 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/kisir/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://coseturche.it/tr/food/kumpir/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://coseturche.it/food/kumpir/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://coseturche.it/tr/food/kumpir/"
+                />
+  </url><url>
     <loc>https://coseturche.it/tr/food/manti/</loc>
     <xhtml:link
                 rel="alternate"
@@ -294,9 +253,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/manti/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/fixedmenu/gulum-benim/</loc>
     <xhtml:link
                 rel="alternate"
@@ -308,9 +265,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/fixedmenu/gulum-benim/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/fixedmenu/tosun-pasa/</loc>
     <xhtml:link
                 rel="alternate"
@@ -322,9 +277,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/fixedmenu/tosun-pasa/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/fixedmenu/vecihi/</loc>
     <xhtml:link
                 rel="alternate"
@@ -336,9 +289,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/fixedmenu/vecihi/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/mucver/</loc>
     <xhtml:link
                 rel="alternate"
@@ -350,9 +301,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/mucver/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/muhallebi/</loc>
     <xhtml:link
                 rel="alternate"
@@ -364,9 +313,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/muhallebi/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/sarma/</loc>
     <xhtml:link
                 rel="alternate"
@@ -378,9 +325,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/sarma/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/simit/</loc>
     <xhtml:link
                 rel="alternate"
@@ -392,9 +337,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/simit/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/sucuklu-karisik-tost/</loc>
     <xhtml:link
                 rel="alternate"
@@ -406,9 +349,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/sucuklu-karisik-tost/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/sucuklu-yumurta/</loc>
     <xhtml:link
                 rel="alternate"
@@ -420,9 +361,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/sucuklu-yumurta/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/suzme-mergimek-corbasi/</loc>
     <xhtml:link
                 rel="alternate"
@@ -434,9 +373,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/suzme-mergimek-corbasi/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/sutlac/</loc>
     <xhtml:link
                 rel="alternate"
@@ -448,9 +385,19 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/sutlac/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://coseturche.it/tr/food/sehriye-corbasi/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://coseturche.it/food/sehriye-corbasi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://coseturche.it/tr/food/sehriye-corbasi/"
+                />
+  </url><url>
     <loc>https://coseturche.it/tr/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -462,9 +409,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/tavuklu-nohutlu-pilav/</loc>
     <xhtml:link
                 rel="alternate"
@@ -476,9 +421,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/tavuklu-nohutlu-pilav/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/tereyagli-pilav/</loc>
     <xhtml:link
                 rel="alternate"
@@ -490,9 +433,7 @@
                 hreflang="tr"
                 href="https://coseturche.it/tr/food/tereyagli-pilav/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://coseturche.it/tr/food/yayla-corbasi/</loc>
     <xhtml:link
                 rel="alternate"
@@ -505,19 +446,4 @@
                 href="https://coseturche.it/tr/food/yayla-corbasi/"
                 />
   </url>
-  
-  <url>
-    <loc>https://coseturche.it/tr/food/sehriye-corbasi/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://coseturche.it/food/sehriye-corbasi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="tr"
-                href="https://coseturche.it/tr/food/sehriye-corbasi/"
-                />
-  </url>
-  
 </urlset>
